@@ -1,3 +1,7 @@
+# Download v1
+
+https://raw.githubusercontent.com/leltk/lol-autoLogin/main/LeagueAutoLog.rar
+
 # lol-autoLogin
 autocomplete de login para contas de league of legends feito em python
 
